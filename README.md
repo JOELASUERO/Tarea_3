@@ -539,7 +539,7 @@ Corto entre las clavijas 3 y 4:
 
 4. VIDEO
 
-https://youtu.be/JOXd7Zo0wec
+https://www.youtube.com
 
 5. CONCLUSIONES
 
