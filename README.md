@@ -352,6 +352,8 @@ R4=Vs/I4=47mV/1.42mA=33.1Ω
 
 21- ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
 
+![image](https://user-images.githubusercontent.com/116674536/205608715-03d1fd3f-dbdd-4d5e-9157-4775d3f8e959.png)
+
 
 (a) Rt=1/(1/510KΩ)=510KΩ
 
@@ -363,18 +365,17 @@ R4=Vs/I4=47mV/1.42mA=33.1Ω
 
 23- Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
 
-Rt=1/(3/33Ω)=11Ω
-
-I=Vs/Rt=110V/11Ω=10A
+![image](https://user-images.githubusercontent.com/116674536/205608791-eea8d0ac-467b-4e37-a308-acb09a1c93fb.png)
 
 25- Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kΩ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
 
 I=Vs/R=110V/2.2KΩ=50mA
 
- Es mejor tener los focos en paralelo ya que si uno se fundiera el resto no de focos no se apagaría.
+Es mejor tener los focos en paralelo ya que si uno se fundiera el resto no de focos no se apagaría.
+
 27- ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ω mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
 
-image
+![image](https://user-images.githubusercontent.com/116674536/205608884-4f766d01-0249-42a9-995d-dad15b7c126e.png)
 
 Rt=V/I=15V/0.5A=30Ω
 
@@ -382,7 +383,7 @@ Rt=V/I=15V/0.5A=30Ω
 
 29- Encuentre los valores de las cantidades no especificadas en la figura 6-77.
 
-image
+![image](https://user-images.githubusercontent.com/116674536/205608934-b1d125a5-d8e0-492d-bf72-641ef6fabc2f.png)
 
 Nodo 1: It=250mA+50mA=300mA
 
@@ -396,7 +397,7 @@ R1=Vs/I1=100V/50mA=2KΩ
 
 31- Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.
 
-image
+![image](https://user-images.githubusercontent.com/116674536/205608980-8335ae77-4e5d-4c4d-9356-613f2943f8ea.png)
 
 Posición C: I1+I2=7mA
 
@@ -406,7 +407,7 @@ Posición A: 2.25Ma
 
 33- Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
 
-image
+![image](https://user-images.githubusercontent.com/116674536/205609004-50bce1e9-36d9-4e73-8beb-1f2d7ef1c782.png)
 
 (a) ) Rt=1/(1/1MΩ+1/2.2MΩ)=687.5KΩ
 
@@ -426,7 +427,7 @@ I4=(Rt/R4)It=(525.04Ω/6.8KΩ)(10mA)=772.12uA
 
 35- Determine todos los valores de resistor en la figura 6-83. Rt = 773 Ω.
 
-image
+![image](https://user-images.githubusercontent.com/116674536/205609060-24103572-071f-4ecc-893d-10409a3eaf99.png)
 
 (a) I1=(Rt/R1)It, R1=(773Ω/3.64mA)×15.53mA=3.29KΩ
 
@@ -442,7 +443,7 @@ R3=(773Ω/2.14mA)×15.53mA=5.6KΩ
 
 37- En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kΩ de escala completa e ntre la derivación para realizar la medición.
 
-image
+![image](https://user-images.githubusercontent.com/116674536/205609103-256e7f2c-6565-49df-9110-ff5bef90ae0f.png)
 
 (a) R=50mV/50A=1mΩ
 
@@ -450,7 +451,7 @@ image
 
 39- Determine la potencia total en cada uno de los circuitos de la figura 6-81.
 
-image
+![image](https://user-images.githubusercontent.com/116674536/205609149-75859d32-208a-4c82-af6b-beba93afe45f.png)
 
 (a) Pt=〖It〗^2×Rt, Pt=〖(10uA)〗^2×687.5KΩ=68.75 uW
 
@@ -458,7 +459,7 @@ image
 
 41- Encuentre los valores de las cantidades no especificadas en la figura 6-84.
 
-image
+![image](https://user-images.githubusercontent.com/116674536/205609195-1ca852d1-64b5-494e-a3a6-6534a3b8b3ce.png)
 
 Vs=Pt/It=2W/200mA=10V
 
@@ -484,7 +485,7 @@ Ifoco=Vs/Rfoco=110V/161.33Ω=681.83mA
 
 45- ¿Qué está mal con el circuito de la figura 6-86?
 
-image
+![image](https://user-images.githubusercontent.com/116674536/205609276-a1371971-9bc6-479b-b5c6-ca77ed264bb4.png)
 
 It=25V/4.7KΩ+25V/10KΩ+25V/8.2KΩ=10.87mA It-I3=10.87mA-3.05mA=7.82mA
 
@@ -492,7 +493,7 @@ El resistor 8.2KΩ está abierto, ya que la corriente es menor de la que deberí
 
 47- Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso.
 
-image
+![image](https://user-images.githubusercontent.com/116674536/205609331-c1b9d7ee-b52a-4d66-991c-f98ef808b7ff.png)
 
 Pin 1-2
 
@@ -524,7 +525,7 @@ R8 abierto: R = 1.0 M Ω ||1.8 M Ω ||680 k Ω = 330 k Ω
 
 49- Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4: (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
 
-image
+![image](https://user-images.githubusercontent.com/116674536/205609376-04ff9547-2fb6-4fc0-aa74-5d42f20b290c.png)
 
 Corto entre las clavijas 3 y 4:
 
@@ -536,3 +537,19 @@ Corto entre las clavijas 3 y 4:
 
 (d) R1-4= R1 || R2 || R3 || R4 || R11 || R12 = 422 Ω
 
+4. VIDEO
+
+https://www.youtube.com
+
+5. CONCLUSIONES
+
+Mediante la recopilación de información en un resumen se pudo comprender conceptos básicos de circuitos eléctricos, como circuitos en serie y paralelo, mismos que son fundamentales al momento de analizar circuitos con cargas y sus propiedades. 
+
+Los resistores en todo circuito deben tener conecciones presisas debido a los calulos de resistencia en los diferentes circitos, es decir conectar una resistencia en serie es aditivo en valor, sin embargo en paralelo las resistencias son inversas.
+
+Los circuitos en paralelo tienen varias ventajas sobre los circuitos en serie debido a sus cortos, es decir si un ciruito paralelo se abre no afecta las demas conecciones lo que si pasa en los circuitos serie, es decir los circuitos paralelo aunque son un poco mas complicadas de analizar, tienen mas ventajas.
+
+6. BIBLIOGRAFIA
+Circuito en Serie - Concepto, elementos y ejemplos. (2013). Concepto. https://concepto.de/circuito-en-serie/
+
+‌Bismarks J.L. (2020, April 22). El comportamiento de un circuito depende totalmente de la configuración de sus Leer más... Electrónica Online; Electrónica Online. https://electronicaonline.net/circuito-electrico/circuito-en-paralelo/
